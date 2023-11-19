@@ -231,19 +231,12 @@
             <div class="col-lg-6">
               <div class="about_content">
                 <div class="about_title">
-                  <h2>The River / 10 years of excellence</h2>
+                  <h2>ABOUT US</h2>
                 </div>
                 <div class="about_text">
                   <p>
-                    Vestibulum ante ipsum primis in faucibus orci luctus et
-                    ultrices posuere cubilia Curae; Suspendisse nec faucibus
-                    velit. Quisque eleifend orci ipsum, a bibendum lacus
-                    suscipit sit. Vestibulum ante ipsum primis in faucibus orci
-                    luctus et ultrices posuere cubilia Curae; Suspendisse nec
-                    faucibus velit. Quisque eleifend orci ipsum, a bibendum
-                    lacus suscipit sit. Vestibulum ante ipsum primis in faucibus
-                    orci luctus et ultrices posuere cubilia Curae; Suspendisse
-                    nec faucibus velit.
+                  Welcome to Catigbian Mountainview, your gateway to nature's paradise in the heart of the Philippines. Located in the picturesque province of Bohol, Catigbian Mountainview is a hidden gem waiting to be explored.
+                  Catigbian Mountainview is more than just a place; it's a testament to the beauty of untouched nature and the rich cultural heritage of Bohol. Our story begins with a deep love for the environment and a commitment to preserving its wonders for generations to come.
                   </p>
                 </div>
               </div>
@@ -362,12 +355,12 @@
 
       <!-- Blog -->
 
-      <div class="blog">
+      <!-- <div class="blog"> -->
         <!-- Blog Slider -->
-        <div class="blog_slider_container">
-          <div class="owl-carousel owl-theme blog_slider">
+        <!-- <div class="blog_slider_container">
+          <div class="owl-carousel owl-theme blog_slider"> -->
             <!-- Slide -->
-            <div class="blog_slide">
+            <!-- <div class="blog_slide">
               <div
                 class="background_image"
                 style="background-image: url(images/index_blog_1.jpg)"
@@ -378,10 +371,10 @@
                   <a href="#">How to book your stay</a>
                 </div>
               </div>
-            </div>
+            </div> -->
 
             <!-- Slide -->
-            <div class="blog_slide">
+            <!-- <div class="blog_slide">
               <div
                 class="background_image"
                 style="background-image: url(images/index_blog_2.jpg)"
@@ -392,10 +385,10 @@
                   <a href="#">10 restaurants in town</a>
                 </div>
               </div>
-            </div>
+            </div> -->
 
             <!-- Slide -->
-            <div class="blog_slide">
+            <!-- <div class="blog_slide">
               <div
                 class="background_image"
                 style="background-image: url(images/index_blog_3.jpg)"
@@ -404,7 +397,7 @@
                 <div class="blog_date"><a href="#">Oct 20, 2018</a></div>
                 <div class="blog_title"><a href="#">A perfect wedding</a></div>
               </div>
-            </div>
-          </div>
-        </div>
+            </div> -->
+          <!-- </div>
+        </div> -->
       </div>

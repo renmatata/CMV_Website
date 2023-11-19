@@ -53,7 +53,7 @@
             </ul>
           </nav>
           <div class="book_button">
-            <a href="#">Book Online</a>
+          <a <?php if ($_GET['m'] == 'reservation') : ?> active <?php endif; ?>" aria-current="page" href="index.php?m=reservation">Book Online</a> 
           </div>
           <div class="header_phone d-flex flex-row align-items-center justify-content-center">
             <img src="images/phone.png" alt="" />
@@ -102,3 +102,4 @@
         </div>
       </div>
     </div>
+  </div>
