@@ -49,12 +49,12 @@
 
 			<div class="col-md-3 menu-item filter-rice">
 				<div class="rectangle-parent">
-					<div class="group-child">
+					<div class="menu-content">
 					</div>
-					<img class="group-item" alt="" src="images/menu/greek-salad.jpg">
-					<div class="chicken-wings">Chicken Wings</div>
-					<div class="appetizer">Appetizer</div>
-					<div class="div">₱200</div>
+					<img class="menu-img" alt="" src="images/menu/greek-salad.jpg">
+					<div class="menu-name">Chicken Wings</div>
+					<div class="category">Appetizer</div>
+					<div class="price">₱200</div>
 				</div>
 			</div>
 
@@ -62,12 +62,12 @@
 
 			<div class="col-md-3 menu-item filter-appetizer">
 				<div class="rectangle-parent">
-					<div class="group-child">
+					<div class="menu-content">
 					</div>
-					<img class="group-item" alt="" src="images/menu/greek-salad.jpg">
-					<div class="chicken-wings">Chicken Wings</div>
-					<div class="appetizer">Appetizer</div>
-					<div class="div">₱200</div>
+					<img class="menu-img" alt="" src="images/menu/greek-salad.jpg">
+					<div class="menu-name">Chicken Wings</div>
+					<div class="category">Appetizer</div>
+					<div class="price">₱200</div>
 				</div>
 			</div>
 
@@ -75,12 +75,12 @@
 
 			<div class="col-md-3 menu-item filter-alacarte">
 				<div class="rectangle-parent">
-					<div class="group-child">
+					<div class="menu-content">
 					</div>
-					<img class="group-item" alt="" src="images/menu/greek-salad.jpg">
-					<div class="chicken-wings">Chicken Wings</div>
-					<div class="appetizer">Appetizer</div>
-					<div class="div">₱200</div>
+					<img class="menu-img" alt="" src="images/menu/greek-salad.jpg">
+					<div class="menu-name">Chicken Wings</div>
+					<div class="category">Appetizer</div>
+					<div class="price">₱200</div>
 				</div>
 			</div>
 
@@ -88,12 +88,12 @@
 
 			<div class="col-md-3 menu-item filter-soup">
 				<div class="rectangle-parent">
-					<div class="group-child">
+					<div class="menu-content">
 					</div>
-					<img class="group-item" alt="" src="images/menu/greek-salad.jpg">
-					<div class="chicken-wings">Chicken Wings</div>
-					<div class="appetizer">Appetizer</div>
-					<div class="div">₱200</div>
+					<img class="menu-img" alt="" src="images/menu/greek-salad.jpg">
+					<div class="menu-name">Chicken Wings</div>
+					<div class="category">Appetizer</div>
+					<div class="price">₱200</div>
 				</div>
 			</div>
 
@@ -101,12 +101,12 @@
 
 			<div class="col-md-3 menu-item filter-drinks">
 				<div class="rectangle-parent">
-					<div class="group-child">
+					<div class="menu-content">
 					</div>
-					<img class="group-item" alt="" src="images/menu/greek-salad.jpg">
-					<div class="chicken-wings">Chicken Wings</div>
-					<div class="appetizer">Appetizer</div>
-					<div class="div">₱200</div>
+					<img class="menu-img" alt="" src="images/menu/greek-salad.jpg">
+					<div class="menu-name">Chicken Wings</div>
+					<div class="category">Appetizer</div>
+					<div class="price">₱200</div>
 				</div>
 			</div>
 
@@ -120,7 +120,7 @@
 <!-- Testimonials -->
 
 <div class="testimonials">
-	<div class="parallax_background parallax-window" data-parallax="scroll" data-image-src="images/testimonials.jpg" data-speed="0.8"></div>
+	<div class="parallax_background parallax-window" data-parallax="scroll" data-image-src="images/about.jpg" data-speed="0.8"></div>
 	<div class="testimonials_overlay"></div>
 	<div class="container">
 		<div class="row">

@@ -2203,7 +2203,7 @@ input[type="number"]::-webkit-outer-spin-button {
   cursor: pointer;
   display: inline-block;
   padding: 8px 12px 10px 12px;
-  font-size: 25px;
+  font-size: 20px;
   font-weight: 500;
   line-height: 1;
   color: #cb8670;
@@ -2226,71 +2226,12 @@ input[type="number"]::-webkit-outer-spin-button {
   margin-top: 50px;
 }
 
-.menu .menu-img {
-  width: 70px;
-  border-radius: 50%;
-  float: left;
-  border: 5px solid rgba(255, 255, 255, 0.2);
-}
-
-.menu .menu-content {
-  margin-left: 85px;
-  overflow: hidden;
-  display: flex;
-  justify-content: space-between;
-  position: relative;
-}
-
-.menu .menu-content::after {
-  content: "......................................................................"
-    "...................................................................."
-    "....................................................................";
-  position: absolute;
-  left: 20px;
-  right: 0;
-  top: -4px;
-  z-index: 1;
-  color: #bab3a6;
-  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
-}
-
-.menu .menu-content a {
-  padding-right: 10px;
-  background: #1a1814;
-  position: relative;
-  z-index: 3;
-  font-weight: 700;
-  color: white;
-  transition: 0.3s;
-}
-
-.menu .menu-content a:hover {
-  color: #cb8670;
-}
-
-.menu .menu-content span {
-  background: #1a1814;
-  position: relative;
-  z-index: 3;
-  padding: 0 10px;
-  font-weight: 600;
-  color: #cb8670;
-}
-
-.menu .menu-ingredients {
-  margin-left: 85px;
-  font-style: italic;
-  font-size: 14px;
-  font-family: "Poppins", sans-serif;
-  color: rgba(231, 227, 227, 0.5);
-}
-
 .menu-container{
   display: flex;
   position: absolute;
   height: 500px;
 }
-.group-child {
+.menu-content {
   position: absolute;
   top: 30px;
   left: 47px;
@@ -2301,7 +2242,7 @@ input[type="number"]::-webkit-outer-spin-button {
   width: 220px;
   height: 230px;
 }
-.group-item {
+.menu-img {
   position: absolute;
   top: 0px;
   left: 0px;
@@ -2311,7 +2252,7 @@ input[type="number"]::-webkit-outer-spin-button {
   height: auto;
   object-fit: cover;
 }
-.chicken-wings {
+.menu-name {
   font-size: 25px;
   position: absolute;
   top: 170px;
@@ -2320,9 +2261,9 @@ input[type="number"]::-webkit-outer-spin-button {
   display: inline-block;
   width: 359px;
 }
-.appetizer {
+.category {
   position: absolute;
-  top: 200px;
+  top: 210px; 
   left: 65px;
   font-size: 20px;
   color: #cac9cd;
@@ -2330,7 +2271,7 @@ input[type="number"]::-webkit-outer-spin-button {
   width: 340px;
   height: 21px;
 }
-.div {
+.price {
   position: absolute;
   top: 85px;
   left: 170px;
@@ -2340,9 +2281,6 @@ input[type="number"]::-webkit-outer-spin-button {
   text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
 }
 .rectangle-parent {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
   position: relative;
   width: 100%;
   height: 300px;
