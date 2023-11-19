@@ -2203,7 +2203,7 @@ input[type="number"]::-webkit-outer-spin-button {
   cursor: pointer;
   display: inline-block;
   padding: 8px 12px 10px 12px;
-  font-size: 16px;
+  font-size: 25px;
   font-weight: 500;
   line-height: 1;
   color: #cb8670;
@@ -2287,7 +2287,6 @@ input[type="number"]::-webkit-outer-spin-button {
 
 .menu-container{
   display: flex;
-  flex-direction: row;
   position: absolute;
   height: 500px;
 }
@@ -2306,6 +2305,7 @@ input[type="number"]::-webkit-outer-spin-button {
   position: absolute;
   top: 0px;
   left: 0px;
+  border: 5px solid #1A421A;
   border-radius: 50%;
   width: 160px;
   height: auto;
@@ -2322,7 +2322,7 @@ input[type="number"]::-webkit-outer-spin-button {
 }
 .appetizer {
   position: absolute;
-  top: 210px;
+  top: 200px;
   left: 65px;
   font-size: 20px;
   color: #cac9cd;

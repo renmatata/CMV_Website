@@ -43,7 +43,7 @@
 			</div>
 		</div>
 
-		<div class="menu-continer row g-4">
+		<div class="menu-container row g-4">
 
 			<!-- RICE MEALS -->
 
@@ -116,67 +116,6 @@
 
 	</div>
 </section><!-- End Menu Section -->
-
-<!-- <div class="row row-cols-1 row-cols-md-3 g-4">
-	<div class="col">
-		<div class="card h-100">
-			<img src="images/menu/lobster-roll.jpg" class="card-img-top" alt="...">
-			<div class="card-body">
-				<h5 class="card-title">Card title</h5>
-				<p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-			</div>
-		</div>
-	</div>
-	<div class="col">
-		<div class="card h-100">
-			<img src="..." class="card-img-top" alt="...">
-			<div class="card-body">
-				<h5 class="card-title">Card title</h5>
-				<p class="card-text">This is a short card.</p>
-			</div>
-		</div>
-	</div>
-	<div class="col">
-		<div class="card h-100">
-			<img src="..." class="card-img-top" alt="...">
-			<div class="card-body">
-				<h5 class="card-title">Card title</h5>
-				<p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content.</p>
-			</div>
-		</div>
-	</div>
-	<div class="col">
-		<div class="card h-100">
-			<img src="..." class="card-img-top" alt="...">
-			<div class="card-body">
-				<h5 class="card-title">Card title</h5>
-				<p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-			</div>
-		</div>
-	</div>
-</div> -->
-
-<div>
-
-	<div class="rectangle-parent">
-		<div class="group-child">
-		</div>
-		<img class="group-item" alt="" src="images/menu/greek-salad.jpg">
-		<div class="chicken-wings">Chicken Wings</div>
-		<div class="appetizer">Appetizer</div>
-		<div class="div">₱200</div>
-	</div>
-
-	<div class="rectangle-parent">
-		<div class="group-child">
-		</div>
-		<img class="group-item" alt="" src="images/menu/greek-salad.jpg">
-		<div class="chicken-wings">Chicken Wings</div>
-		<div class="appetizer">Appetizer</div>
-		<div class="div">₱200</div>
-	</div>
-
-</div>
 
 <!-- Testimonials -->
 
