@@ -52,9 +52,97 @@
 					<div class="menu-content">
 					</div>
 					<img class="menu-img" alt="" src="images/menu/greek-salad.jpg">
-					<div class="menu-name">Chicken Wings</div>
-					<div class="category">Appetizer</div>
+					<div class="menu-name">1 cup rice</div>
+					<div class="category">Rice Meal</div>
+					<div class="price">₱30</div>
+				</div>
+			</div>
+
+			<div class="col-md-3 menu-item filter-rice">
+				<div class="rectangle-parent">
+					<div class="menu-content">
+					</div>
+					<img class="menu-img" alt="" src="images/menu/greek-salad.jpg">
+					<div class="menu-name">Java Rice Platter</div>
+					<div class="category">Rice Meal</div>
+					<div class="price">₱120</div>
+				</div>
+			</div>
+
+			<div class="col-md-3 menu-item filter-rice">
+				<div class="rectangle-parent">
+					<div class="menu-content">
+					</div>
+					<img class="menu-img" alt="" src="images/menu/greek-salad.jpg">
+					<div class="menu-name">Garlic Rice Platter</div>
+					<div class="category">Rice Meal</div>
 					<div class="price">₱200</div>
+				</div>
+			</div>
+
+			<div class="col-md-3 menu-item filter-rice">
+				<div class="rectangle-parent">
+					<div class="menu-content">
+					</div>
+					<img class="menu-img" alt="" src="images/menu/greek-salad.jpg">
+					<div class="menu-name">BBQ Pork Rib</div>
+					<div class="category">Rice Meal</div>
+					<div class="price">₱250</div>
+				</div>
+			</div>
+
+			<div class="col-md-3 menu-item filter-rice">
+				<div class="rectangle-parent">
+					<div class="menu-content">
+					</div>
+					<img class="menu-img" alt="" src="images/menu/greek-salad.jpg">
+					<div class="menu-name">SweetN' SOur Fish Fillet</div>
+					<div class="category">Rice Meal</div>
+					<div class="price">₱250</div>
+				</div>
+			</div>
+
+			<div class="col-md-3 menu-item filter-rice">
+				<div class="rectangle-parent">
+					<div class="menu-content">
+					</div>
+					<img class="menu-img" alt="" src="images/menu/greek-salad.jpg">
+					<div class="menu-name">BBQ Pork Belly</div>
+					<div class="category">Rice Meal</div>
+					<div class="price">₱250</div>
+				</div>
+			</div>
+
+			<div class="col-md-3 menu-item filter-rice">
+				<div class="rectangle-parent">
+					<div class="menu-content">
+					</div>
+					<img class="menu-img" alt="" src="images/menu/greek-salad.jpg">
+					<div class="menu-name">Chicken Fillet</div>
+					<div class="category">Rice Meal</div>
+					<div class="price">₱250</div>
+				</div>
+			</div>
+
+			<div class="col-md-3 menu-item filter-rice">
+				<div class="rectangle-parent">
+					<div class="menu-content">
+					</div>
+					<img class="menu-img" alt="" src="images/menu/greek-salad.jpg">
+					<div class="menu-name">Fish Fillet</div>
+					<div class="category">Rice Meal</div>
+					<div class="price">₱250</div>
+				</div>
+			</div>
+
+			<div class="col-md-3 menu-item filter-rice">
+				<div class="rectangle-parent">
+					<div class="menu-content">
+					</div>
+					<img class="menu-img" alt="" src="images/menu/greek-salad.jpg">
+					<div class="menu-name">Boneless Bangus</div>
+					<div class="category">Rice Meal</div>
+					<div class="price">₱250</div>
 				</div>
 			</div>
 
@@ -66,6 +154,39 @@
 					</div>
 					<img class="menu-img" alt="" src="images/menu/greek-salad.jpg">
 					<div class="menu-name">Chicken Wings</div>
+					<div class="category">Appetizer</div>
+					<div class="price">₱300</div>
+				</div>
+			</div>
+
+			<div class="col-md-3 menu-item filter-appetizer">
+				<div class="rectangle-parent">
+					<div class="menu-content">
+					</div>
+					<img class="menu-img" alt="" src="images/menu/greek-salad.jpg">
+					<div class="menu-name">French Fries</div>
+					<div class="category">Appetizer</div>
+					<div class="price">₱180</div>
+				</div>
+			</div>
+
+			<div class="col-md-3 menu-item filter-appetizer">
+				<div class="rectangle-parent">
+					<div class="menu-content">
+					</div>
+					<img class="menu-img" alt="" src="images/menu/greek-salad.jpg">
+					<div class="menu-name">Calamari</div>
+					<div class="category">Appetizer</div>
+					<div class="price">₱300</div>
+				</div>
+			</div>
+
+			<div class="col-md-3 menu-item filter-appetizer">
+				<div class="rectangle-parent">
+					<div class="menu-content">
+					</div>
+					<img class="menu-img" alt="" src="images/menu/greek-salad.jpg">
+					<div class="menu-name">Sweet Tempura</div>
 					<div class="category">Appetizer</div>
 					<div class="price">₱200</div>
 				</div>
@@ -79,11 +200,142 @@
 					</div>
 					<img class="menu-img" alt="" src="images/menu/greek-salad.jpg">
 					<div class="menu-name">Chicken Wings</div>
-					<div class="category">Appetizer</div>
-					<div class="price">₱200</div>
+					<div class="category">Ala Carte</div>
+					<div class="price">₱250</div>
 				</div>
 			</div>
 
+			<div class="col-md-3 menu-item filter-alacarte">
+				<div class="rectangle-parent">
+					<div class="menu-content">
+					</div>
+					<img class="menu-img" alt="" src="images/menu/greek-salad.jpg">
+					<div class="menu-name">Beef Steak</div>
+					<div class="category">Ala Carte</div>
+					<div class="price">₱410</div>
+				</div>
+			</div>
+
+			<div class="col-md-3 menu-item filter-alacarte">
+				<div class="rectangle-parent">
+					<div class="menu-content">
+					</div>
+					<img class="menu-img" alt="" src="images/menu/greek-salad.jpg">
+					<div class="menu-name">BBQ Pork Belly</div>
+					<div class="category">Ala Carte</div>
+					<div class="price">₱390</div>
+				</div>
+			</div>
+
+			<div class="col-md-3 menu-item filter-alacarte">
+				<div class="rectangle-parent">
+					<div class="menu-content">
+					</div>
+					<img class="menu-img" alt="" src="images/menu/greek-salad.jpg">
+					<div class="menu-name">Pork Cheesig</div>
+					<div class="category">Ala Carte</div>
+					<div class="price">₱350</div>
+				</div>
+			</div>
+
+			<div class="col-md-3 menu-item filter-alacarte">
+				<div class="rectangle-parent">
+					<div class="menu-content">
+					</div>
+					<img class="menu-img" alt="" src="images/menu/greek-salad.jpg">
+					<div class="menu-name">Hashed Beef</div>
+					<div class="category">Ala Carte</div>
+					<div class="price">₱410</div>
+				</div>
+			</div>
+
+			<div class="col-md-3 menu-item filter-alacarte">
+				<div class="rectangle-parent">
+					<div class="menu-content">
+					</div>
+					<img class="menu-img" alt="" src="images/menu/greek-salad.jpg">
+					<div class="menu-name">Pork Sisig w/ Egg</div>
+					<div class="category">Ala Carte</div>
+					<div class="price">₱350</div>
+				</div>
+			</div>
+
+			<div class="col-md-3 menu-item filter-alacarte">
+				<div class="rectangle-parent">
+					<div class="menu-content">
+					</div>
+					<img class="menu-img" alt="" src="images/menu/greek-salad.jpg">
+					<div class="menu-name">Grilled Tangigue</div>
+					<div class="category">Ala Carte</div>
+					<div class="price">₱410</div>
+				</div>
+			</div>
+
+			<div class="col-md-3 menu-item filter-alacarte">
+				<div class="rectangle-parent">
+					<div class="menu-content">
+					</div>
+					<img class="menu-img" alt="" src="images/menu/greek-salad.jpg">
+					<div class="menu-name">Pansit Bam-i</div>
+					<div class="category">Ala Carte</div>
+					<div class="price">₱310</div>
+				</div>
+			</div>
+
+			<div class="col-md-3 menu-item filter-alacarte">
+				<div class="rectangle-parent">
+					<div class="menu-content">
+					</div>
+					<img class="menu-img" alt="" src="images/menu/greek-salad.jpg">
+					<div class="menu-name">Chili Shrimps</div>
+					<div class="category">Ala Carte</div>
+					<div class="price">₱350</div>
+				</div>
+			</div>
+
+			<div class="col-md-3 menu-item filter-alacarte">
+				<div class="rectangle-parent">
+					<div class="menu-content">
+					</div>
+					<img class="menu-img" alt="" src="images/menu/greek-salad.jpg">
+					<div class="menu-name">Grilled Squid</div>
+					<div class="category">Ala Carte</div>
+					<div class="price">₱380</div>
+				</div>
+			</div>
+
+			<div class="col-md-3 menu-item filter-alacarte">
+				<div class="rectangle-parent">
+					<div class="menu-content">
+					</div>
+					<img class="menu-img" alt="" src="images/menu/greek-salad.jpg">
+					<div class="menu-name">Spicy Gambas</div>
+					<div class="category">Ala Carte</div>
+					<div class="price">₱350</div>
+				</div>
+			</div>
+
+			<div class="col-md-3 menu-item filter-alacarte">
+				<div class="rectangle-parent">
+					<div class="menu-content">
+					</div>
+					<img class="menu-img" alt="" src="images/menu/greek-salad.jpg">
+					<div class="menu-name">Green Salad w/ Caesar Dressing</div>
+					<div class="category">Ala Carte</div>
+					<div class="price">₱390</div>
+				</div>
+			</div>
+
+			<div class="col-md-3 menu-item filter-alacarte">
+				<div class="rectangle-parent">
+					<div class="menu-content">
+					</div>
+					<img class="menu-img" alt="" src="images/menu/greek-salad.jpg">
+					<div class="menu-name">Ala Carte Mixed Veggies</div>
+					<div class="category">Ala Carte</div>
+					<div class="price">₱250</div>
+				</div>
+			</div>
 			<!-- SOUP -->
 
 			<div class="col-md-3 menu-item filter-soup">
@@ -91,9 +343,53 @@
 					<div class="menu-content">
 					</div>
 					<img class="menu-img" alt="" src="images/menu/greek-salad.jpg">
-					<div class="menu-name">Chicken Wings</div>
-					<div class="category">Appetizer</div>
-					<div class="price">₱200</div>
+					<div class="menu-name">Bas-uy</div>
+					<div class="category">Soup</div>
+					<div class="price">₱380</div>
+				</div>
+			</div>
+
+			<div class="col-md-3 menu-item filter-soup">
+				<div class="rectangle-parent">
+					<div class="menu-content">
+					</div>
+					<img class="menu-img" alt="" src="images/menu/greek-salad.jpg">
+					<div class="menu-name">Corn Soup</div>
+					<div class="category">Soup</div>
+					<div class="price">₱150</div>
+				</div>
+			</div>
+
+			<div class="col-md-3 menu-item filter-soup">
+				<div class="rectangle-parent">
+					<div class="menu-content">
+					</div>
+					<img class="menu-img" alt="" src="images/menu/greek-salad.jpg">
+					<div class="menu-name">Mushroom Soup</div>
+					<div class="category">Soup</div>
+					<div class="price">₱150</div>
+				</div>
+			</div>
+
+			<div class="col-md-3 menu-item filter-soup">
+				<div class="rectangle-parent">
+					<div class="menu-content">
+					</div>
+					<img class="menu-img" alt="" src="images/menu/greek-salad.jpg">
+					<div class="menu-name">Pork Sinigang</div>
+					<div class="category">Soup</div>
+					<div class="price">₱380</div>
+				</div>
+			</div>
+
+			<div class="col-md-3 menu-item filter-soup">
+				<div class="rectangle-parent">
+					<div class="menu-content">
+					</div>
+					<img class="menu-img" alt="" src="images/menu/greek-salad.jpg">
+					<div class="menu-name">Fish TInola</div>
+					<div class="category">Soup</div>
+					<div class="price">₱380</div>
 				</div>
 			</div>
 
