@@ -19,6 +19,7 @@
   <link href="plugins/colorbox/colorbox.css" rel="stylesheet" type="text/css" />
   <link rel="stylesheet" type="text/css" href="styles/main_styles.css" />
   <link rel="stylesheet" type="text/css" href="styles/responsive.css" />
+  <link rel="stylesheet" type="text/css" href="styles/booking_dropdown">
 </head>
 
 <body>
@@ -53,11 +54,11 @@
             </ul>
           </nav>
           
-          <div class="book_button" style="position: relative; text-align: center;">
-    <label for="book_online_link" id="book_online_link" style="cursor: pointer; color: white; padding: 10px; font-size: 16px;">Book Online</label>
-    <div id="booking_options" style="display: none; position: absolute; top: 100%; left: 0; width: 150px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); z-index: 1;">
-        <div onclick="window.location.href='index.php?m=reservation1'" onmouseover="this.style.backgroundColor='#555'" onmouseout="this.style.backgroundColor='transparent'" style="cursor: pointer; color: white; padding: 10px; border-bottom: none;">Choices 1</div>
-        <div onclick="window.location.href='index.php?m=reservation'" onmouseover="this.style.backgroundColor='#555'" onmouseout="this.style.backgroundColor='transparent'" style="cursor: pointer; color: white; padding: 10px; border-bottom: none;">Choices 2</div>
+          <div class="book_button">
+    <label for="book_online_link" id="book_online_link">Book Online</label>
+    <div id="booking_options">
+        <div onclick="window.location.href='index.php?m=reservation1'" onmouseover="this.style.backgroundColor='#555'" onmouseout="this.style.backgroundColor='transparent'">Choices 1</div>
+        <div onclick="window.location.href='index.php?m=reservation'" onmouseover="this.style.backgroundColor='#555'" onmouseout="this.style.backgroundColor='transparent'">Choices 2</div>
     </div>
 </div>
 

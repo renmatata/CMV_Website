@@ -1,0 +1,33 @@
+/* styles.css */
+.book_button {
+    position: relative;
+    text-align: center;
+}
+
+#book_online_link {
+    cursor: pointer;
+    color: white;
+    padding: 10px;
+    font-size: 16px;
+}
+
+#booking_options {
+    display: none;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    width: 150px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    z-index: 1;
+}
+
+#booking_options div {
+    cursor: pointer;
+    color: white;
+    padding: 10px;
+    border-bottom: none;
+}
+
+#booking_options div:hover {
+    background-color: #555;
+}
