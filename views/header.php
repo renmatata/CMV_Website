@@ -52,9 +52,32 @@
                 <li><a href="contact.html">Contact</a></li> -->
             </ul>
           </nav>
-          <div class="book_button">
-          <a <?php if ($_GET['m'] == 'reservation') : ?> active <?php endif; ?>" aria-current="page" href="index.php?m=reservation">Book Online</a> 
-          </div>
+          
+          <div class="book_button" style="position: relative; text-align: center;">
+    <label for="book_online_link" id="book_online_link" style="cursor: pointer; color: white; padding: 10px; font-size: 16px;">Book Online</label>
+    <div id="booking_options" style="display: none; position: absolute; top: 100%; left: 0; width: 150px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); z-index: 1;">
+        <div onclick="window.location.href='index.php?m=reservation1'" onmouseover="this.style.backgroundColor='#555'" onmouseout="this.style.backgroundColor='transparent'" style="cursor: pointer; color: white; padding: 10px; border-bottom: none;">Choices 1</div>
+        <div onclick="window.location.href='index.php?m=reservation'" onmouseover="this.style.backgroundColor='#555'" onmouseout="this.style.backgroundColor='transparent'" style="cursor: pointer; color: white; padding: 10px; border-bottom: none;">Choices 2</div>
+    </div>
+</div>
+
+<script>
+    document.addEventListener("DOMContentLoaded", function () {
+        var bookOnlineLink = document.getElementById("book_online_link");
+        var bookingOptions = document.getElementById("booking_options");
+
+        bookOnlineLink.addEventListener("click", function (e) {
+            e.preventDefault();
+            bookingOptions.style.display = (bookingOptions.style.display === "block") ? "none" : "block";
+        });
+
+        document.addEventListener("click", function (e) {
+            if (!e.target.closest('#book_online_link, #booking_options')) {
+                bookingOptions.style.display = "none";
+            }
+        });
+    });
+</script>
           <div class="header_phone d-flex flex-row align-items-center justify-content-center">
             <img src="images/phone.png" alt="" />
             <span>0183-12345678</span>
@@ -95,7 +118,7 @@
         </nav>
       </div>
       <div class="nav_extra">
-        <div class="nav_book text-right"><a href="#">Book online</a></div>
+      <div class="nav_book text-right"><a href="#">Book online</a></div>
         <div class="nav_phone d-flex flex-row align-items-center justify-content-center">
           <img src="images/phone-2.png" alt="" />
           <span>0183-12345678</span>
