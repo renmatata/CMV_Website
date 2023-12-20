@@ -57,8 +57,8 @@
           <div class="book_button">
     <label for="book_online_link" id="book_online_link">Book Online</label>
     <div id="booking_options">
-        <div onclick="window.location.href='index.php?m=reservation1'" onmouseover="this.style.backgroundColor='#555'" onmouseout="this.style.backgroundColor='transparent'">Choices 1</div>
-        <div onclick="window.location.href='index.php?m=reservation'" onmouseover="this.style.backgroundColor='#555'" onmouseout="this.style.backgroundColor='transparent'">Choices 2</div>
+        <div onclick="window.location.href='index.php?m=event';" onmouseover="this.style.backgroundColor='#555'" onmouseout="this.style.backgroundColor='transparent'">Event Venue</div>
+        <div onclick="window.location.href='index.php?m=reservation';" onmouseover="this.style.backgroundColor='#555'" onmouseout="this.style.backgroundColor='transparent'">Book a Table</div>
     </div>
 </div>
 
@@ -79,6 +79,7 @@
         });
     });
 </script>
+
           <div class="header_phone d-flex flex-row align-items-center justify-content-center">
             <img src="images/phone.png" alt="" />
             <span>0183-12345678</span>
